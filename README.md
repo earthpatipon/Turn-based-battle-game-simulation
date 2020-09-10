@@ -1,4 +1,4 @@
-# Turn-based-battle-game-simulation
+# turn_based_battle_game
 
 ### Create new character
 > src/Player.java
